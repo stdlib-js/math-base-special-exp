@@ -31,11 +31,11 @@ var exp = require( './../../dist' );
 
 // FIXTURES //
 
-var mediumNegative = require( './../..xtures/julia/medium_negative.json' );
-var mediumPositive = require( './../..xtures/julia/medium_positive.json' );
-var smallNegative = require( './../..xtures/julia/small_negative.json' );
-var smallPositive = require( './../..xtures/julia/small_positive.json' );
-var tiny = require( './../..xtures/julia/tiny.json' );
+var mediumNegative = require( './../fixtures/julia/medium_negative.json' );
+var mediumPositive = require( './../fixtures/julia/medium_positive.json' );
+var smallNegative = require( './../fixtures/julia/small_negative.json' );
+var smallPositive = require( './../fixtures/julia/small_positive.json' );
+var tiny = require( './../fixtures/julia/tiny.json' );
 
 
 // TESTS //
