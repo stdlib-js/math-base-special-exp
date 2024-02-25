@@ -65,7 +65,7 @@ where `e` is [Euler's][@stdlib/constants/float64/e] number.
 ## Usage
 
 ```javascript
-import exp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-exp@esm/index.mjs';
+import exp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-exp@v0.2.1-esm/index.mjs';
 ```
 
 #### exp( x )
@@ -103,7 +103,7 @@ v = exp( NaN );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import exp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-exp@esm/index.mjs';
+import exp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-exp@v0.2.1-esm/index.mjs';
 
 var x;
 var i;
