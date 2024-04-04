@@ -65,6 +65,11 @@ where `e` is [Euler's][@stdlib/constants/float64/e] number.
 ## Usage
 
 ```javascript
+import exp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-exp@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-exp/tags). For example,
+
+```javascript
 import exp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-exp@v0.2.3-deno/mod.js';
 ```
 
@@ -98,7 +103,7 @@ v = exp( NaN );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import exp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-exp@v0.2.3-deno/mod.js';
+import exp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-exp@deno/mod.js';
 
 var x;
 var i;
