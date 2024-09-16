@@ -2,6 +2,41 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-09-16)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`595c932`](https://github.com/stdlib-js/stdlib/commit/595c932bffba6011fddaa4c5c3c5f4733732539d) - **chore:** add structured package data for `math/base/special/exp` [(#2893)](https://github.com/stdlib-js/stdlib/pull/2893) _(by Gunj Joshi, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Gunj Joshi
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.4">
 
 ## 0.2.4 (2024-07-28)
