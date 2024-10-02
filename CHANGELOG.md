@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-10-01)
+## Unreleased (2024-10-02)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`c20c2c3`](https://github.com/stdlib-js/stdlib/commit/c20c2c34c3f7f87ab1902cbbefaffd1729077370) - **build:** add WebAssembly configuration _(by Athan Reines)_
 -   [`177f16c`](https://github.com/stdlib-js/stdlib/commit/177f16cd80b9072714e7b4e976487e5e6dd19761) - **chore:** update package meta data [(#2933)](https://github.com/stdlib-js/stdlib/pull/2933) _(by stdlib-bot, Athan Reines)_
 -   [`595c932`](https://github.com/stdlib-js/stdlib/commit/595c932bffba6011fddaa4c5c3c5f4733732539d) - **chore:** add structured package data for `math/base/special/exp` [(#2893)](https://github.com/stdlib-js/stdlib/pull/2893) _(by Gunj Joshi, Athan Reines)_
 
