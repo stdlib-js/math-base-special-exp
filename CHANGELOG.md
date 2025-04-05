@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-03)
+## Unreleased (2025-04-05)
 
 <section class="reverts">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`d0c1c2b`](https://github.com/stdlib-js/stdlib/commit/d0c1c2b9a307016b894d7fa3d500c98558bbe197) - **test:** add tests for IEEE 754-2019 compliance [(#6558)](https://github.com/stdlib-js/stdlib/pull/6558) _(by Karan Anand)_
 -   [`3e1d620`](https://github.com/stdlib-js/stdlib/commit/3e1d6200c9ca9e7ce0324508f5fcf18d11dd73db) - **bench:** refactor benchmarks in `math/base/special/exp` [(#5855)](https://github.com/stdlib-js/stdlib/pull/5855) _(by Gururaj Gurram, Athan Reines, Gunj Joshi, stdlib-bot)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`b834207`](https://github.com/stdlib-js/stdlib/commit/b834207f43accd6caa5d8e5cc8ad7ff039687f24) - **chore:** replace manual `for` loop in examples [(#6403)](https://github.com/stdlib-js/stdlib/pull/6403) _(by Harsh, stdlib-bot)_
